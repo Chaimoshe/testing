@@ -1,4 +1,4 @@
-import pytest
+# import pytest
 import time
 import json
 import selenium
